@@ -1,8 +1,3 @@
-#App Highlights
+# Step Counter Addon for WoW Classic
 
-- Track number of sober days
-- Receive daily motivational quotes
-- Write about each day
-- Celebrate milestones
-
-- Addict score calculator (based on selected criteria, user is given a score)
+- Counts and logs character's steps
